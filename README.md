@@ -62,4 +62,4 @@ With the growing usage of digital payment systems like PhonePe, there's a need t
 
 ## 📎References
 
-- 📌 [PhonePe Pulse Dataset](https://www.phonepe.com/pulse/)
+- 📌 https://github.com/PhonePe/pulse

@@ -46,13 +46,6 @@ With the growing usage of digital payment systems like PhonePe, there's a need t
 - Visualization and dashboard-building skills
 - Developed business insights with real-world applications
 
-## 📋 Evaluation Metrics
-
--  Code Quality & Standards
--  SQL Query Performance
--  Dashboard Effectiveness
--  Insight Relevance
--  Documentation Completeness
 
 ## 📦 Deliverables
 
